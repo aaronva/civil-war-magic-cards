@@ -1,0 +1,50 @@
+﻿mse version: 0.3.8
+game: magic
+stylesheet: m15
+set info:
+	symbol: 
+styling:
+	magic-m15:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-05-05 16:09:44
+	time modified: 2016-05-05 16:11:31
+	name: Steve Rogers, Subtitle
+	casting cost: RW
+	image: 
+	super type: <word-list-type>Legendary Creature</word-list-type>
+	sub type: <word-list-race>Human</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rarity: mythic rare
+	rule text: <i-auto>(PLACEHOLDER)</i-auto>
+	flavor text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	card code text: 
+	copyright: 
+	image 2: 
+	copyright 2: 
+card:
+	has styling: false
+	notes: 
+	time created: 2016-05-05 16:10:08
+	time modified: 2016-05-05 16:11:38
+	name: Tony Stark, Subtitle
+	casting cost: WU
+	image: 
+	super type: <word-list-type>Legendary Creature</word-list-type>
+	sub type: <word-list-race>Human</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rarity: mythic rare
+	rule text: <i-auto>(PLACEHOLDER)</i-auto>
+	flavor text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card code text: 
+	copyright: 
+	image 2: 
+	copyright 2: 
+version control:
+	type: none
+apprentice code: 
